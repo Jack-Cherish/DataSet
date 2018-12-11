@@ -8,6 +8,8 @@
 
 * DeepFashion: Fashion Landmark Detection：http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html
 
+* ModaNet images：https://github.com/kyamagu/paperdoll/tree/master/data/chictopia
+
 ### 书籍销售排行榜
 
 * 亚马逊纸书/Kindle书销售排行数据集：https://www.kaggle.com/ucffool/amazon-sales-rank-data-for-print-and-kindle-books
